@@ -1,0 +1,14 @@
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.AssemblyInfoInputs.cache
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.AssemblyInfo.cs
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.exe
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.deps.json
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.runtimeconfig.json
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.dll
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\bin\Debug\net9.0\RegistroEstudiantes.pdb
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.dll
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\refint\RegistroEstudiantes.dll
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.pdb
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\RegistroEstudiantes.genruntimeconfig.cache
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\RegistroEstudiantes\RegistroEstudiantes\obj\Debug\net9.0\ref\RegistroEstudiantes.dll
