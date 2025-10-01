@@ -1,0 +1,14 @@
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\bin\Debug\net9.0\Arreglo generico parametrizado.exe
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\bin\Debug\net9.0\Arreglo generico parametrizado.deps.json
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\bin\Debug\net9.0\Arreglo generico parametrizado.runtimeconfig.json
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\bin\Debug\net9.0\Arreglo generico parametrizado.dll
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\bin\Debug\net9.0\Arreglo generico parametrizado.pdb
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\Arreglo generico parametrizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\Arreglo generico parametrizado.AssemblyInfoInputs.cache
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\Arreglo generico parametrizado.AssemblyInfo.cs
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\Arreglo generico parametrizado.csproj.CoreCompileInputs.cache
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\Arreglo generico parametrizado.dll
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\refint\Arreglo generico parametrizado.dll
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\Arreglo generico parametrizado.pdb
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\Arreglo generico parametrizado.genruntimeconfig.cache
+C:\Users\guadalupe villanueva\Desktop\Alejandro Villanueva\Estructura de datos\Arreglo generico parametrizado\Arreglo generico parametrizado\obj\Debug\net9.0\ref\Arreglo generico parametrizado.dll
